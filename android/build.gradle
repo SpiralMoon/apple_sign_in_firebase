@@ -35,4 +35,5 @@ android {
 
 dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:+'
+    implementation 'com.google.firebase:firebase-auth'
 }
