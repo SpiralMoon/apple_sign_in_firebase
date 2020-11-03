@@ -1,6 +1,7 @@
 import 'dart:async';
-
 import 'package:flutter/services.dart';
+
+export 'package:apple_sign_in_firebase/apple_sign_in_firebase.dart';
 
 class AppleSignInFirebase {
   static const MethodChannel _channel =
